@@ -88,6 +88,6 @@ std(): Standard deviation
 "fBodyBodyGyroJerkMag-std()"
 
 
-# variable units
+# Variable units
 
 # Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
